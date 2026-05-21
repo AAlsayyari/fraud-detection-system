@@ -1,4 +1,4 @@
-### run "python -m streamlit run notebooks/dashboard_V3.py" in terminal to start the dashboard
+### run "python -m streamlit run notebooks/dashboard.py" in terminal to start the dashboard
 
 import streamlit as st
 import joblib

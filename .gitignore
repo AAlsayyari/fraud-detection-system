@@ -1,3 +1,29 @@
-﻿data/
+# Dataset (too large to track, ~470MB)
+data/
 *.csv
-# This is used because the dataset is 470mb.
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
